@@ -2,16 +2,16 @@
   "payload": {
     "app": "casino_tools_pro",
     "version": 1,
-    "updated_at": "2026-04-09T14:54:40Z",
+    "updated_at": "2026-04-09T15:05:07Z",
     "revoked_ids": [
       "LIC-1603F5E4",
-      "LIC-204D81BA",
       "LIC-3250B1DD",
       "LIC-376C919E",
       "LIC-9E8932A2",
+      "LIC-AFAE5983",
       "LIC-B88A46FD",
       "LIC-C30133E2"
     ]
   },
-  "signature": "Wo-HeXushRKgs-U69iG2VkWPJsaiYZoDgefJBOJk7zFJ01u525pzARyhqubLUcd7VEezTGiRNiTUw_1QhQa4atSP4BTF2JzSVkEvxhdvEfwCNwjSrHwsWhHZOnHDP6ENBMGhhtwPmvCwS-Mpm29hjsSwpXZ3MVWZ5_QsMT79sXm96tttoUrTN25mGOkFhFm6M3HtGTDljGX2CI91gQzxb1xUNlH2hGEPi_Rc99F_jUWwN5O3fm2M5ssZqFqtSslWO4rMUyaPPEoO-w5stYp6YSGSLYBtkfk0MWbPwqF5SGvKPV_hDxzOBMADN9V89uBpBmy3XPwLM4x9VavZWk3ZKg=="
+  "signature": "pD_UlkTzMy0giXSXaAWmCA6TjD-7Ct7rClXbAvGDSDKK9hcrtZQvxbtrsZqB-qheVsQnKH2FXalRUmm4bAHmgzjzPPjatW8N6qdeymZkLCrN1LLUF3UKsp5hHFXqeEN44_qmn_IOU8ihwPcXao_KrMYCH0odwmwTMQQ1tTEpMYAYTbjUVkM6sdA5Q6aYya00OAlGMaYRL1Mty7cknvTjLV7ZDRz-RhdUjabU_mSwZA_Q582p7xOvCxUkiv_CJNku8Z7uzu6ssvseUH-dfg6Tf1PzgRItBRQhAiGdFysHNZmm0CcC8lLmACbAZLb9RU9z0lh22sBuN5vy2vYiE5hw5Q=="
 }
