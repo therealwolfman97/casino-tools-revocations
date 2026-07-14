@@ -1,19 +1,8 @@
 {
-  "payload": {
-    "app": "casino_tools_pro",
-    "version": 1,
-    "updated_at": "2026-04-14T17:44:11Z",
-    "revoked_ids": [
-      "LIC-503D5719",
-      "LIC-542F30BF",
-      "LIC-6EE1D9DC",
-      "LIC-77918515",
-      "LIC-A17FBE04",
-      "LIC-AACF406B",
-      "LIC-E0FD4081",
-      "LIC-E64A62BF",
-      "LIC-E7EA7E7D"
-    ]
-  },
-  "signature": "N7NS1ksHP9hz2qdz2LqAUAAn4GdBbWYwSM8cBqVqWW7fgQNyD-AY4od-XI5NYnjxfmxAG3N9oNvj-zgiIPU3BTe-Fm7ILF3lT0M0j937ethvYsV9DgoFRIPyse4BFZFNcddUMSMNbaqZxJ-Kouflulxny4Un9Bt2_QxLOklWUMU1Cnpd8mj94p2T0-57YdDgnOgqqsXk5R0NWRzwMDaWKGx0YGXtqUQPOS2NUwviSyklEYmOwKN4upnMzU2Z67Uo3D_GcaYMAp3RcvctqbZgDAHFYOS49lpGOHbOn6mR9qH8u1m_9ta_s0r6DAIwn-ejj5P28yN3zeoE0PmcvBcLjA=="
+  "app": "casino_tools_pro",
+  "version": 1,
+  "updated_at": "2026-07-14T04:06:43Z",
+  "revoked_ids": [
+    "CTP-810B2726"
+  ]
 }
